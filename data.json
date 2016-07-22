@@ -1,0 +1,45 @@
+var DATA = {
+    
+    "Community Gardens": [
+        "Farm Support Association",
+        "Save the Children",
+        "Wan Smolbag", 
+        "GIZ"
+    ],
+    "Traditional Knowledge": [
+        "GIZ"
+    ],
+    "Raising Awareness": [
+        "Save the Children",
+        "Wan Smolbag",
+         "VANGO"
+    ],
+    "Crop Diversification": [
+        "Farm Support Association",
+        "Save the Children"
+    ],
+    "Food Preservation": [
+        "Save the Children",
+        "ADRA"
+    ],
+    "WASH": [
+        "Wan Smolbag",
+        "Save the Children",
+        "ADRA",
+        "Oxfam"
+    ],
+    "Community Planning": [
+        "Save the Children"
+    ],
+    "Disaster Preparedness": [
+        "CARE",
+        "Save the Children",
+        "Red Cross"
+    ],
+    "Preventing Deforestation": [
+        "Live and Learn"
+    ],   
+    "Gender Inclusion in Policy": [
+        "Oxfam"
+    ],   
+};
