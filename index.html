@@ -1,0 +1,60 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head> 
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+        <title>network map of climate adaptation projects in Vanuatu</title> 
+        
+        <link rel="stylesheet" href="recycle.css" type="text/css" media="screen">
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="paper.js" type="text/javascript" charset="utf-8"></script>
+        <script src="http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.1.7/underscore-min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="data.json" type="text/javascript" charset="utf-8"></script>
+        
+        <script type="text/paperscript" canvas="canvas" src="recycle.js"></script>
+        
+        <script type="text/javascript">
+            jQuery(document).ready(function() {
+                if (!!document.createElement('canvas').getContext) {
+                    $('#nocanvas').hide();
+                }
+            });
+        </script>
+        
+        <script type="text/javascript" src="//use.typekit.net/ran8aft.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+        
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-26336682-1']);
+            _gaq.push(['_trackPageview']);
+            
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </head> 
+    <body>
+        
+        <h1>network map of climate adaptation projects in Vanuatu</h1>
+        
+        <p>
+            This is a network map of climate adaptation projects in Vanuatu in 2016. Click or hover over a country or issue to see connections.
+        </p>
+        
+        <div id="mainText">
+            <p id="nocanvas">
+                This page requires HTML5 canvas and JavaScript.
+            </p>
+            
+            <canvas id="canvas" width=1000></canvas>
+            
+            <p>
+            The code for this infographic is adapted from  <a href="http://www.zackgrossbart.com/blog/more-about-zack/">Zack Grossbart's</a>  <a href="https://github.com/zgrossbart/hborecycling">HBORecycling project on GitHub</a>, which was based on a visualization by Craig Robinson. It's made with <a href="http://www.paperjs.org">PaperJS</a>, <a href="http://documentcloud.github.com/underscore/">underscore.js</a>, and a little <a href="http://jquery.com/">JQuery</a>.
+            </p>
+       
+       
+        </div>
+    </body>
+</html>
