@@ -207,7 +207,7 @@ var rel = {
 
                 this.text.content = name;
                 this.text.characterStyle =  {
-                    fontSize: isActor ? 10 : 14,
+                    fontSize: isActor ? 12 : 14,
                     fillColor: rel.defaultTextColor,
                     font: rel.font
                 };
@@ -383,7 +383,7 @@ jQuery(document).ready(function() {
     */
     var actors = _.map(actorNames, function (name) {
         var actor = rel.createActor(name, point.clone());
-        point.y += 16;
+        point.y += 46;
         return actor;
     });
 
@@ -409,7 +409,7 @@ jQuery(document).ready(function() {
     /*
     * Then we set the height of our view
     */
-    view.viewSize = [1000, actorY + 200];
+    view.viewSize = [1000, actorY + 0];
 
     /*
     * The last step is to draw each actor which draws the shows
