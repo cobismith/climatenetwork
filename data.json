@@ -1,6 +1,7 @@
 var DATA = {
     
     "Community Gardens": [
+        "CARE",
         "Farm Support Association",
         "Save the Children",
         "Wan Smolbag", 
@@ -10,6 +11,7 @@ var DATA = {
         "GIZ"
     ],
     "Raising Awareness": [
+        "CARE",
         "Save the Children",
         "Wan Smolbag",
          "VANGO"
@@ -24,13 +26,19 @@ var DATA = {
     ],
     "WASH": [
         "Wan Smolbag",
+        "CARE",
         "Save the Children",
         "ADRA",
         "Oxfam",
         "Live and Learn"
     ],
     "Community Planning": [
+        "CARE",
         "Save the Children"
+    ],
+    "Community Mapping": [
+        "CARE",
+        "Wan Smolbag"
     ],
     "Disaster Preparedness": [
         "CARE",
@@ -41,6 +49,7 @@ var DATA = {
         "Live and Learn"
     ],   
     "Gender Inclusion in Policy": [
+        "CARE",
         "Oxfam"
     ],   
 };
