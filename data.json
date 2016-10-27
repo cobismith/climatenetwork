@@ -7,6 +7,10 @@ var DATA = {
         "Wan Smolbag", 
         "GIZ"
     ],
+    "Fish Farming": [
+        "GIZ",
+        "USP"
+    ],
     "Traditional Knowledge": [
         "GIZ"
     ],
@@ -16,13 +20,17 @@ var DATA = {
         "Wan Smolbag",
          "VANGO"
     ],
-    "Crop Diversification": [
+    "Crop Diversity": [
         "Farm Support Association",
-        "Save the Children"
+        "Save the Children", 
+        "GIZ"
     ],
     "Food Preservation": [
         "Save the Children",
         "ADRA"
+    ],
+    "Seed saving": [
+        "Wan Smolbag"
     ],
     "WASH": [
         "Wan Smolbag",
@@ -30,7 +38,8 @@ var DATA = {
         "Save the Children",
         "ADRA",
         "Oxfam",
-        "Live and Learn"
+        "Live and Learn",
+        "World Vision"
     ],
     "Community Planning": [
         "CARE",
