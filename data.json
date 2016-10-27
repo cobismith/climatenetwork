@@ -1,5 +1,38 @@
 var DATA = {
     
+      "Community Mapping": [
+        "CARE",
+        "Wan Smolbag"
+    ],
+    
+      "Community Planning": [
+        "CARE",
+        "Save the Children",
+        "Wan Smolbag"
+    ],
+    
+      "Crop Diversity": [
+        "Farm Support Association",
+        "Save the Children", 
+        "GIZ"
+    ],
+    
+    "Disaster Preparedness": [
+        "CARE",
+        "Save the Children",
+        "Red Cross"
+    ],
+    
+     "Fish Farming": [
+        "GIZ",
+        "USP"
+    ],
+    
+    "Food Preservation": [
+        "Save the Children",
+        "ADRA"
+    ],
+    
     "Food Gardens": [
         "CARE",
         "Farm Support Association",
@@ -7,31 +40,31 @@ var DATA = {
         "Wan Smolbag", 
         "GIZ"
     ],
-    "Fish Farming": [
-        "GIZ",
-        "USP"
+         
+    "Gender Inclusion in Policy": [
+        "CARE",
+        "Oxfam"
+    ], 
+      
+    "Preventing Deforestation": [
+        "Live and Learn"
     ],
-    "Traditional Knowledge": [
-        "GIZ"
-    ],
+    
     "Raising Climate Awareness": [
         "CARE",
         "Save the Children",
         "Wan Smolbag",
          "VANGO"
     ],
-    "Crop Diversity": [
-        "Farm Support Association",
-        "Save the Children", 
-        "GIZ"
-    ],
-    "Food Preservation": [
-        "Save the Children",
-        "ADRA"
-    ],
+   
     "Seed saving": [
         "Wan Smolbag"
     ],
+    
+    "Traditional Knowledge": [
+        "GIZ"
+    ],
+    
     "WASH": [
         "Wan Smolbag",
         "CARE",
@@ -40,26 +73,5 @@ var DATA = {
         "Oxfam",
         "Live and Learn",
         "World Vision"
-    ],
-    "Community Planning": [
-        "CARE",
-        "Save the Children",
-        "Wan Smolbag"
-    ],
-    "Community Mapping": [
-        "CARE",
-        "Wan Smolbag"
-    ],
-    "Disaster Preparedness": [
-        "CARE",
-        "Save the Children",
-        "Red Cross"
-    ],
-    "Preventing Deforestation": [
-        "Live and Learn"
-    ],   
-    "Gender Inclusion in Policy": [
-        "CARE",
-        "Oxfam"
-    ],   
+    ],  
 };
